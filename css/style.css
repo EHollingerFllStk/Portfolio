@@ -109,9 +109,7 @@ h3 {
         margin: 10px auto;
 
     }
-
-   
-
+    
     .container {
         display: flex;
         flex-direction: row;
@@ -127,7 +125,7 @@ h3 {
         padding: 5px;
         
     }
-    
+
     .intro {
         width: 50%;
         margin: 100px auto 100px auto;
